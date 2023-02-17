@@ -1,0 +1,71 @@
+body{
+margin: 0;
+padding: 0;
+background: linear-gradient(41deg, rgba(2,0,36,1) 49%, rgba(35,66,74,0.7329525560224089) 94%);
+
+
+}
+
+header{
+
+height: 500px;
+}
+
+.titulo-banner{
+position: absolute;
+font-family: 'Dancing Script', cursive;
+font-size: 120px;
+color: white;
+-webkit-text-stroke: 1px rgb(195, 60, 232);
+font-weight: bolder;
+margin: 2px;
+transition: 1s;
+font-style: italic;
+text-align: end;
+top: 180px;
+right: 40px;
+}
+
+.banner{
+margin: 0;
+padding: 0;
+}
+
+.banner-img{
+    width: 100%;
+    height: 500px;
+}
+
+.container{
+ display: flex;
+ margin: 40px;
+}
+.contenido{
+width: 100%;
+}
+.titulo-principal{
+    text-transform: uppercase;
+    font-size: 75px;
+color: blueviolet;
+-webkit-text-stroke: 0.1px white;
+font-style: italic;
+font-family: 'Bebas Neue', cursive;
+
+}
+.historia{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.contenedor-img{
+    box-sizing: border-box;
+padding-top:50px;
+width: 100%;
+}
+.img-c{
+width: 100%;
+height: 800px;
+border-radius: 40px;
+}
