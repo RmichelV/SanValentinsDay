@@ -69,3 +69,21 @@ width: 100%;
 height: 800px;
 border-radius: 40px;
 }
+
+
+.conv{
+color: wheat;
+display: flex;
+width: 100%;
+justify-content: center;
+align-items: center;
+}
+
+.poema{
+font-size: 30px;
+}
+
+.joel{
+width: 400px;
+height: 800px;
+}

@@ -24,6 +24,6 @@ enviar.addEventListener('click',saludar);
 function cambioDePagina(){
     setTimeout(() => {
         location.href="../html/index2.html"
-    }, 1000*5);
+    }, 1000*2);
 }
 
